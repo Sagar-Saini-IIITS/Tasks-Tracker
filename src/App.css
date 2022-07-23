@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+i{
+  cursor: pointer;
+}
+.tasks{
+  padding-left: 2%;
+  background-color: rgb(255, 198, 118);
+  font-family: cursive;
+}
+.taskitem{
+  background-color:rgb(222, 244, 247) ;
+  font-family: sans-serif;
+}
+.addtasks{
+  background-color: rgb(255, 124, 100);
+  padding-left: 2%;
+  font-family: cursive;
+}
+.mtext{
+  font-family: sans-serif;
+}
